@@ -1,0 +1,9 @@
+Teste do github. Aprendendo java com a Loiane
+
+
+A presente gramática tem por base o Epítome de Gramática Portuguesa do 
+Novo Dicionário Lello da Língua Portuguesa (Porto, Lello Editores, 1996 e 1999), 
+licenciado pela Priberam em 2008. Foi adaptada para formato adequado
+ à disponibilização electrónica pela Priberam, estando em constante actualização
+ e melhoramento.
+
